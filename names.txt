@@ -1,2 +1,6 @@
 - Learning Git online by Kunal K
+<<<<<<< Updated upstream
 - Learn Azure 104
+=======
+- Modify the file by adding text
+>>>>>>> Stashed changes
